@@ -42,7 +42,7 @@ function App() {
             <div className='contactitem'>
                   
                     
-                    <a onClick={() => openInNewTab("https://wa.me/+573005270056?text=Confirmo")} ><BsWhatsapp style={{width:'45px' , height:'45px'}}/></a> 
+                    <a onClick={() => openInNewTab("https://wa.me/+573002034011?text=Confirmo")} ><BsWhatsapp style={{width:'45px' , height:'45px'}}/></a> 
                     <a onClick={() => openInNewTab("https://goo.gl/maps/gw8dUQmwfMtRRzWR8")} >  <FaMapMarkerAlt style={{width:'45px' , height:'45px'}}/></a> 
                   
 
