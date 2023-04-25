@@ -43,10 +43,6 @@ const words = [
 ]
 
 
-
-
-
-
 function App() {
   return (
     <div className="App">
