@@ -73,7 +73,7 @@ function App() {
                <ul>
                   <li>Friday 21st of July from 7:30pm </li>
                 
-                  <li> Alderney Tha Manor Social Club   </li>
+                  <li> Alderney The Manor Social Club   </li>
 
                   <li> 287 Herbert Avenue. BH12 4HT </li>
                </ul> 
