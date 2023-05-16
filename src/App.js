@@ -70,7 +70,7 @@ function App() {
              <div className='message'> YOU ARE INVITED TO CELEBRATE MY 40TH BIRTHDAY </div>
 
              <div className='caro'>
-             <div className='carito'></div>
+                 <div className='carito'></div>
               
                 <div>Diana</div> 
               
