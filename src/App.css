@@ -86,6 +86,25 @@ margin: auto;
   margin-bottom: 25px;
 }
 
+.carito{
+  background: url('caro.png');
+
+ 
+  background-size:cover;
+ background-position: center;
+ background-repeat: no-repeat;
+ height: 138px;
+ width: 133px;
+ text-align: center;
+ top: -84px;
+ position: absolute;
+ top: -243px;
+ left: 0;
+ right: 0;
+ bottom: 0;
+ margin: auto;
+}
+
 .contact li{
   list-style: none;
   padding: 0px;
@@ -101,7 +120,7 @@ margin: auto;
 
 .message{
   
-  padding: 40px;
+  padding: 50px;
  
     z-index: 3;
     position: relative;

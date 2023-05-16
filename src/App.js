@@ -65,6 +65,8 @@ function App() {
  
              <h1>forty and fabulous</h1>
 
+             <div className='carito'></div>
+
              <div className='message'> YOU ARE INVITED TO CELEBRATE MY 40TH BIRTHDAY </div>
 
              <div className='caro'>Diana </div>
