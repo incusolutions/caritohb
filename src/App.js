@@ -1,6 +1,8 @@
 import logo from './logo.svg';
 
 import { Link } from "react-router-dom";
+import ReactHowler from 'react-howler'
+import { useRef } from 'react'
 import Lottie from "lottie-react";
 import './App.css';
 
@@ -43,23 +45,35 @@ const words = [
 ]
 
 
+
 function App() {
+
+
+
   return (
     <div className="App">
        
        <div className='forty'>
 
+       <ReactHowler
+        src='./muk.mp3'
+        playing={true}
+        loop={true}
+      />
+
+            <audio id="audio" src="./muk.mp3" autoPlay loop></audio>
+ 
              <h1>forty and fabulous</h1>
 
              <div className='message'> YOU ARE INVITED TO CELEBRATE MY 40TH BIRTHDAY </div>
 
-             <div className='caro'>Diana James</div>
+             <div className='caro'>Diana </div>
 
              <div className='contact'> 
                <ul>
-                  <li>Friday 21st of july from 7:30pm </li>
+                  <li>Friday 21st of July from 7:30pm </li>
                 
-                  <li> Alderney Tha Mannor Social Club   </li>
+                  <li> Alderney Tha Manor Social Club   </li>
 
                   <li> 287 Herbert Avenue. BH12 4HT </li>
                </ul> 
