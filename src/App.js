@@ -70,12 +70,10 @@ function App() {
              <div className='message'> YOU ARE INVITED TO CELEBRATE MY 40TH BIRTHDAY </div>
 
              <div className='caro'>
-                 <div className='carito'></div>
               
                 <div>Diana</div> 
               
-              
-              </div>
+            </div>
 
             
 
@@ -93,7 +91,7 @@ function App() {
             
             <div className='contactitem'>
                     
-                    <a onClick={() => openInNewTab("https://wa.me/+573002034011?text= Good things happened in 83: "+words[getRandomInt(19)]+ ' Other good thing, I WAS BORN !. '+ 'Do you confirm your attendance? ')} ><BsWhatsapp style={{width:'45px' , height:'45px'}}/></a> 
+                    <a onClick={() => openInNewTab("https://wa.me/+447742646583?text= Good things happened in 83: "+words[getRandomInt(19)]+ ' Other good thing, I WAS BORN !. '+ 'Do you confirm your attendance? ')} ><BsWhatsapp style={{width:'45px' , height:'45px'}}/></a> 
                     <a onClick={() => openInNewTab("https://goo.gl/maps/hUD4ToagBhKV2iZN9")} >  <FaMapMarkerAlt style={{width:'45px' , height:'45px'}}/></a> 
                  
             </div>
